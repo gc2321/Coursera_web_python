@@ -1,0 +1,7 @@
+You can download all of the sample Python code from the book from 
+
+http://www.pythonlearn.com/code.zip, 
+
+or individual files from the directory 
+
+http://www.pythonlearn.com/code/
